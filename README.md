@@ -18,5 +18,5 @@ $ python3 source.py
 username > [username (example:mi0256)]
 ```
 
-source.py make data.json(savefile)
+source.py make data.json(savefile)  
 If it stops running, it will resume reading Data.json.
